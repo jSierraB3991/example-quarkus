@@ -1,4 +1,4 @@
-package org.acme.infrastructure.dto;
+package org.acme;
 
 public class TestResponse {
     private String message;
